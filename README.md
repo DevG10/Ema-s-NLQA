@@ -43,6 +43,7 @@ pip install -r requirements.txt
 ## Usage
 ### Run the main.py file
 ```bash
+cd src
 python -m main.py
 ````
 #### Note: Before running the main file ensure that you have first created a .env file and pasted your gemini key as GOOGLE_API_KEY = 'your_api_key' inside your .env file
