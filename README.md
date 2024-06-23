@@ -71,6 +71,5 @@ python -m main.py
 ## Future Work
 - Potential improvements and additional features:
 - Enhancing the accuracy of responses
-- Supporting more languages
 - Adding more data sources
 - Improving the user interface
