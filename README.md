@@ -1,7 +1,7 @@
 # LLM Query Agent
 
 A conversational AI agent capable of answering questions based on lecture notes and other resources using advanced NLP techniques and pre-trained language models.
-
+[Link to the approach](https://docs.google.com/document/d/1U0yRFxvu7T2k9gsM1WRPiXP1HqKt1g9_2qx8U64sjGg/edit?usp=sharing)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
